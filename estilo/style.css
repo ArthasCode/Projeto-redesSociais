@@ -4,7 +4,7 @@
     padding: 0;
 }
 html, body{
-    background:black url('../pacote-projetoSocial/imagens/fundo-madeira.jpg') center no-repeat fixed;
+    background:brown url('../pacote-projetoSocial/imagens/fundo-madeira.jpg') center no-repeat fixed;
     background-size: cover;
     height: 100vh;
     width: 100vw;
@@ -30,7 +30,6 @@ iframe#sites{
     height: 74.8%;
 }
 section#redesSociais{
-    
     justify-content: end;
 }
 img{
